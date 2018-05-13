@@ -1,6 +1,6 @@
 # Kasza.js
 
-TODO
+Kasza.js is simple Cache service/helper/tool for your App
 
 
 ## Contributing
