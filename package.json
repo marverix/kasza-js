@@ -1,0 +1,39 @@
+{
+  "name": "kasza-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "npx rollup -c",
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marverix/kasza-js.git"
+  },
+  "keywords": [
+    "cache",
+    "service",
+    "helper",
+    "tool",
+    "util",
+    "js",
+    "javascript",
+    "kasza",
+    "kasza-js"
+  ],
+  "author": "Marek Sierociński (https://github.com/marverix)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marverix/kasza-js/issues"
+  },
+  "homepage": "https://github.com/marverix/kasza-js#readme",
+  "devDependencies": {
+    "coffee-script": "<2.0.0",
+    "mocha": "^5.1.1",
+    "rollup": "^0.58.2",
+    "rollup-plugin-coffee-script": "<2.0.0",
+    "rollup-plugin-commonjs": "^9.1.3",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  }
+}
