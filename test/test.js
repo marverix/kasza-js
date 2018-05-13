@@ -3,7 +3,7 @@ var assert = require('assert');
 // Kasza
 describe('Kasza', function() {
 
-  var Kasza = require('../dist/index.js');
+  var Kasza = require('../dist/kasza.min.js');
 
   // require
   describe('typeof', function() {

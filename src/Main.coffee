@@ -11,7 +11,7 @@ Kasza = {
   # Default config
   # @private
   _config: {
-    debug: true
+    debug: false
     inNode: false
   }
 

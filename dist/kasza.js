@@ -1,3 +1,4 @@
+/* Kasza.js v1.0.0 | (c) Marek Sierociński and other contributors | https://github.com/marverix/i18njs/blob/master/LICENSE.md */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory() :
   typeof define === 'function' && define.amd ? define(factory) :
@@ -10,7 +11,7 @@
     _storage: {},
     _ttlTimers: {},
     _config: {
-      debug: true,
+      debug: false,
       inNode: false
     },
     config: null,
