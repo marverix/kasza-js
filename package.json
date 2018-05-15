@@ -1,6 +1,6 @@
 {
   "name": "kasza-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kasza.js is simple Cache service/helper/tool for your App",
   "main": "dist/index.js",
   "scripts": {
