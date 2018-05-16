@@ -1,8 +1,8 @@
 {
   "name": "kasza-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kasza.js is simple Cache service/helper/tool for your App",
-  "main": "dist/index.js",
+  "main": "dist/kasza.js",
   "scripts": {
     "build": "npx rollup -c",
     "test": "npx mocha"
